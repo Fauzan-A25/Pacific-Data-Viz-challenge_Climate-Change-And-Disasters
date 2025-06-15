@@ -1,0 +1,4 @@
+geopy==2.4.1
+pandas==2.3.0
+plotly==6.1.2
+streamlit==1.44.0
