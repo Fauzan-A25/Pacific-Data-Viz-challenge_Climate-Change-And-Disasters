@@ -67,6 +67,3 @@ Kami sangat menghargai kontribusi dari komunitas! Berikut adalah cara Anda dapat
 4.  Push perubahan ke branch Anda: `git push origin fitur-baru`.
 5.  Buat Pull Request ke repositori utama.
 
-
----
-README.md ini dihasilkan secara otomatis oleh [README.MD Generator](https://github.com/emRival) — dibuat dengan ❤️ oleh [emRival](https://github.com/emRival)
