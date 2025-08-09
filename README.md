@@ -1,10 +1,18 @@
 # Visualisasi Data Iklim dan Bencana Pasifik 🌏
 
 <p align="center">
-  <img style="margin-right: 8px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]([https://streamlit.io](https://pacific-data-viz-challengeclimate-change-and-disasters.streamlit.app/))
-  <img style="margin-right: 8px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img style="margin-right: 8px;" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+  <a href="https://www.python.org/" target="_blank">
+    <img style="margin-right: 8px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://pacific-data-viz-challengeclimate-change-and-disasters.streamlit.app/" target="_blank">
+    <img style="margin-right: 8px;" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img style="margin-right: 8px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  </a>
+  <a href="https://plotly.com/" target="_blank">
+    <img style="margin-right: 8px;" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+  </a>
 </p>
 
 Proyek ini menyajikan visualisasi data interaktif mengenai perubahan iklim dan bencana di wilayah Pasifik. Tujuannya adalah untuk memberikan wawasan yang jelas dan mudah dipahami tentang dampak perubahan iklim terhadap wilayah tersebut, memungkinkan para pemangku kepentingan untuk membuat keputusan yang lebih tepat dan mengambil tindakan yang efektif.
